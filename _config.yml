@@ -2,6 +2,7 @@ name: Seblovesyoutiao
 favicon: null
 layout_spectrum: 0.9165261
 typography_spectrum: 0.5
+title: Hello World
 cta:
   domain: null
   bucket: null
