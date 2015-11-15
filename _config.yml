@@ -1,8 +1,23 @@
+name: Seblovesyoutiao
+favicon: null
 layout_spectrum: 0.9165261
+typography_spectrum: 0.5
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7150084
+  brandColors: []
   brandStrength: 0.9462621
   lightness: 0.1602024
+  saturation: 0.7150084
   rhythmicContrast: 0.3052277
-typography_spectrum: 0
-name: Seblovesyoutiao
+purpose: []
