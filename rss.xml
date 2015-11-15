@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hello World]]></title>
         <description><![CDATA[Hello World]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seblovesyoutiao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 16:27:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 Nov 2015 16:28:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seblovesyoutiao/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/seblovesyoutiao/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">4fe178c6-70bf-461a-86e0-3489f76c33c4</guid>
+            <pubDate>Sun, 15 Nov 2015 16:27:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My First Grid Post!]]></title>
             <description><![CDATA[<article><h1>My First Grid Post!</h1><p>Testing how well this turns out</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9bb9c06-3766-4665-982a-1fd2fb07945d.jpg"></article>]]></description>
-            <link>undefinedmy-first-grid-post/index.html</link>
+            <link>https://thegrid.ai/seblovesyoutiao/my-first-grid-post/index.html</link>
             <guid isPermaLink="false">ca8cb403-fbbe-4c26-9205-5d801869768d</guid>
             <pubDate>Sun, 15 Nov 2015 16:27:30 GMT</pubDate>
         </item>
