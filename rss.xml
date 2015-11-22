@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hello World]]></title>
         <description><![CDATA[Hello World]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seblovesyoutiao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 16:33:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 12:20:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seblovesyoutiao/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Friend I Thought I Knew]]></title>
+            <description><![CDATA[<article><h1>The Friend I Thought I Knew</h1><p>I thought you were a real friend</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea57d55d-8e5d-468e-ab4b-cb9b1d5e07ab.jpg"></article>]]></description>
+            <link>https://thegrid.ai/seblovesyoutiao/the-friend-i-thought-i-knew/index.html</link>
+            <guid isPermaLink="false">8d2e0e38-f912-4919-9fea-cea96919c9f6</guid>
+            <pubDate>Sun, 22 Nov 2015 12:19:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My First Post]]></title>
             <description><![CDATA[<article><h1>My First Post</h1><p>Hello World</p></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <link>https://thegrid.ai/seblovesyoutiao/my-first-post/index.html</link>
             <guid isPermaLink="false">efd752ab-1c53-4436-be5d-d117ba63c244</guid>
             <pubDate>Sun, 15 Nov 2015 16:33:11 GMT</pubDate>
         </item>
